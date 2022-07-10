@@ -15,8 +15,6 @@
   <img align="right" alt="Foto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/849034995049431070/995785351090143232/killsis_3.png?width=676&height=676">
 </div>
   
-  ##
- 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ocaradoalarme" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
